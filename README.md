@@ -1,4 +1,4 @@
-### Data entry form
+# Data entry form
 - The Google Sheets data entry form, empowered by AppScript, seamlessly integrates the copy-paste tool to optimize your workflow. 
 - Data entry forms offer a structured and user-friendly interface for inputting data, reducing errors through predefined fields and validation rules while streamlining the process and saving time for users. 
 
